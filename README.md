@@ -1,5 +1,5 @@
 <h1 align=center>Hi, I'm Kalle Heinonen 👋
-<h3 align=center> I'm a third-year software engineering student at Tampere University<h3>
+<h3 align=center> I'm a fourth-year information technology student at Tampere University<h3>
 <p></p> 
 
 <h4 align=center>Languages & Technologies:<h4>
